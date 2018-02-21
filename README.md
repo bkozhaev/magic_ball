@@ -15,6 +15,7 @@
 
 ## Работа с консолями
 [Как работать в cmd](http://nevor.ru/stati/operacionnye-sistemy/stati-dlya-windows/rabota-v-komandnoj-stroke-windows/)
+
 [Как работать в cmd mac os](https://support.apple.com/ru-ru/HT201236)
 
 ## Об авторе
