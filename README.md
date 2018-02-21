@@ -1,4 +1,22 @@
-# magic_ball
-the programm gives you an answer for your question
-in instance for an answer as "I am floating in a right way" the magic ball could give you a positive, neutral or negative answer.
-thank you for understanding
+# Magic Ball
+
+Данная программа основана на логике шара судьбы, шара предсказаний, который способен предсказывать будущее,
+путем, ответов на поставленный вопрос.
+
+Использование магического шара в реали заключается в следующем:
+Держа шар в руках (окошком вниз) пользователь задаёт ему вопрос, встряхивает, переворачивает его и читает появившийся ответ.
+
+В данном случае, необходимо запустить программу следующим образом:
+1. скачать папку magic_ball c гитхаба себе на компьютер
+2. Открыть `cmd.exe` на Windows или 'terminal' на MacOS
+3. Указать путь расположения скачанное папки в вышеупомянутой консоли.
+4. Задать вслух вопрос на который вы хотите узнать ответ, к примеру "Стану ли я руби профессионалом?"
+5. Запустить `magic_ball.rb` и он выдаст вам ответ на ваш вопрос.
+
+Ну и впринципе все.
+
+Подробное описание по магическому шару найдете https://ru.wikipedia.org/wiki/Magic_8_ball
+Как работать в cmd http://nevor.ru/stati/operacionnye-sistemy/stati-dlya-windows/rabota-v-komandnoj-stroke-windows/
+Как работать в cmd mac os https://support.apple.com/ru-ru/HT201236
+
+Удачи и спасибо большое за проявленный интерес!
