@@ -11,11 +11,7 @@
 
 ### Запуск игры
 В операционной систем нужен устнавленный Ruby 2.4+  
-в консоли вводим `>ruby magic_ball.rb`
-
-### Работа с консолями
-[Как работать в cmd Windows](http://nevor.ru/stati/operacionnye-sistemy/stati-dlya-windows/rabota-v-komandnoj-stroke-windows/)  
-[Как работать в cmd mac os](https://support.apple.com/ru-ru/HT201236)
+```>ruby magic_ball.rb```
 
 ### Об авторе
 Начинающий программист. Изучающий Руби.
