@@ -1,15 +1,21 @@
 # Magic Ball
 
+## О программе
 Данная программа основана на логике шара судьбы, шара предсказаний, который способен предсказывать будущее,
 путем, ответов на поставленный вопрос.
 
+## О магическом шаре
 Использование магического шара в реали заключается в следующем:
 Держа шар в руках (окошком вниз) пользователь задаёт ему вопрос, встряхивает, переворачивает его и читает появившийся ответ.
+[Подробное описание магического шара](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
-Запуск игры
+## Запуск игры
 В операционной систем нужен устнавленный Ruby 2.4+
 в консоли вводим `>ruby magic_ball.rb`
 
-Подробное описание по магическому шару найдете https://ru.wikipedia.org/wiki/Magic_8_ball
-Как работать в cmd http://nevor.ru/stati/operacionnye-sistemy/stati-dlya-windows/rabota-v-komandnoj-stroke-windows/
-Как работать в cmd mac os https://support.apple.com/ru-ru/HT201236
+## Работа с консолями
+[Как работать в cmd](http://nevor.ru/stati/operacionnye-sistemy/stati-dlya-windows/rabota-v-komandnoj-stroke-windows/)
+[Как работать в cmd mac os](https://support.apple.com/ru-ru/HT201236)
+
+## Об авторе
+Начинающий программист. Изучающий Руби.
